@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/checkitout/!svn/ver/131/1
+END
+New Text Document.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/checkitout/!svn/ver/107/1/New%20Text%20Document.txt
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/checkitout/!svn/ver/99/1/manage.py
+END
+config.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/checkitout/!svn/ver/3/1/config.yaml
+END
+index.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/checkitout/!svn/ver/100/1/index.wsgi
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/checkitout/!svn/ver/99/1/.project
+END
+.pydevproject
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/checkitout/!svn/ver/105/1/.pydevproject
+END

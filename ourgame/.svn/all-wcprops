@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/checkitout/!svn/ver/130/1/ourgame
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/checkitout/!svn/ver/99/1/ourgame/urls.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/checkitout/!svn/ver/134/1/ourgame/settings.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/checkitout/!svn/ver/99/1/ourgame/__init__.py
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/checkitout/!svn/ver/99/1/ourgame/wsgi.py
+END

@@ -1,4 +1,0 @@
-weicheck
-========
-
-wechat public game
